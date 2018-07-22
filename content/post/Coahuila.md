@@ -1,5 +1,5 @@
 ---
-title: "Mapas económicos"
+title: "Coahuila"
 date: 2018-07-22
 tags: ["mapas", "denue", "languaje r", "datos abiertos"]
 draft: false
