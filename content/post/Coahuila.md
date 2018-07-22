@@ -13,15 +13,15 @@ De acuerdo al SCIAN están codificados todos los sectores económicos.
 ## Coahuila
 
 ### Comercio al por menor de artículos usados
-<https://claudiaguerreros.github.io/mapas.github.io/mapasartusados.html>.
+<https://claudiaguerreros.github.io/mapas/mapasartusados.html>.
 
 ### Consultorios de quiropráctica, sector privado y público
 
-<https://claudiaguerreros.github.io/mapas.github.io/mapasquiropracticos.html>.
+<https://claudiaguerreros.github.io/mapas/mapasquiropracticos.html>.
 
 ### Ópticas, unidades económicas que llevan en su nombre la palabra óptica
 
 Elección no por la actividad económica sino por el nombre en la razón social
 
-<https://claudiaguerreros.github.io/mapas.github.io/mapasopticas.html>
+<https://claudiaguerreros.github.io/mapas/mapasopticas.html>
 

@@ -10,13 +10,13 @@ draft: false
 
 ### Panaderias, tortillerías, dulcerías y minisupers
 
- <https://claudiaguerreros.github.io/mapas.github.io/mapaspanderias.html>.
+ <https://claudiaguerreros.github.io/mapas/mapaspanderias.html>.
  
 
 ### Mapa de Combustibles y gasolinas
 
-<https://claudiaguerreros.github.io/mapas.github.io/mapaseconomicos.html>.
+<https://claudiaguerreros.github.io/mapas/mapaseconomicos.html>.
 
 ### Mapa de guarderías y estancias infantiles públicas y privadas
 
-<https://claudiaguerreros.github.io/mapas.github.io/mapasguarderias.html>.
+<https://claudiaguerreros.github.io/mapas/mapasguarderias.html>.
