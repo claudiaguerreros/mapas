@@ -3,148 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/project/project1/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project2/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project3/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project4/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/goisforlovers/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/hugoisforlovers/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/bootstrap/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/css/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/development/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/go/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/golang/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/highlight-js/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/html/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hugo/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/static-site-generator/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/syntax-highlighting/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claudiaguerreros.github.io/mapas/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claudiaguerreros.github.io/mapas/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/template/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/themes/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
