@@ -25,3 +25,6 @@ Elección no por la actividad económica sino por el nombre en la razón social
 
 <https://claudiaguerreros.github.io/mapas/mapasopticas.html>
 
+### Mapas de tiendas Soriana 
+
+<https://claudiaguerreros.github.io/mapas/mapasorianas.html>
