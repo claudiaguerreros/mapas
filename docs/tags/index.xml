@@ -1,148 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Minimal</title>
+    <title>Tags on Mapas Econ�micos</title>
     <link>https://claudiaguerreros.github.io/mapas/tags/</link>
-    <description>Recent content in Tags on Minimal</description>
+    <description>Recent content in Tags on Mapas Econ�micos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://claudiaguerreros.github.io/mapas/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bootstrap</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/bootstrap/</link>
+      <title>Datos Abiertos</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/datos-abiertos/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/mapas/tags/datos-abiertos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denue</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/denue/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/mapas/tags/denue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/google/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/tags/bootstrap/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/tags/google/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Css</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/css/</link>
+      <title>Languaje R</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/languaje-r/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/mapas/tags/languaje-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapa</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/mapa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/tags/css/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/tags/mapa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Mapas</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/mapas/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/tags/development/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/tags/mapas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Highlight Js</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/highlight-js/</link>
+      <title>Shiny</title>
+      <link>https://claudiaguerreros.github.io/mapas/tags/shiny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Js</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Static Site Generator</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Template</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/template/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://claudiaguerreros.github.io/mapas/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/tags/themes/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/tags/shiny/</guid>
       <description></description>
     </item>
     

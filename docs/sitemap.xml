@@ -3,44 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/project/project1/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/proyecto/proyecto1/</loc>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/project/project2/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/proyecto/proyecto2/</loc>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/project/project3/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/proyecto/proyecto3/</loc>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/project/project4/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/proyecto/proyecto4/</loc>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://claudiaguerreros.github.io/mapas/post/coahuila/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://claudiaguerreros.github.io/mapas/post/mapaseconomicos/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/bootstrap/</loc>
-    <priority>0</priority>
+    <loc>https://claudiaguerreros.github.io/mapas/post/torreon/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,103 +39,64 @@
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/css/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/datos-abiertos/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/denue/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/google/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/languaje-r/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/highlight-js/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/mapa/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/html/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/js/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/mapas/</loc>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://claudiaguerreros.github.io/mapas/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://claudiaguerreros.github.io/mapas/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/project/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/proyecto/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/syntax-highlighting/</loc>
+    <loc>https://claudiaguerreros.github.io/mapas/tags/shiny/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://claudiaguerreros.github.io/mapas/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://claudiaguerreros.github.io/mapas/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

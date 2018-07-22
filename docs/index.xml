@@ -1,95 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minimal</title>
+    <title>Mapas Econ�micos</title>
     <link>https://claudiaguerreros.github.io/mapas/</link>
-    <description>Recent content on Minimal</description>
+    <description>Recent content on Mapas Econ�micos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://claudiaguerreros.github.io/mapas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Project 1</title>
-      <link>https://claudiaguerreros.github.io/mapas/project/project1/</link>
+      <title>Proyecto 1</title>
+      <link>https://claudiaguerreros.github.io/mapas/proyecto/proyecto1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/project/project1/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/proyecto/proyecto1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project 2</title>
-      <link>https://claudiaguerreros.github.io/mapas/project/project2/</link>
+      <title>Proyecto 2</title>
+      <link>https://claudiaguerreros.github.io/mapas/proyecto/proyecto2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/project/project2/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/proyecto/proyecto2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project 3</title>
-      <link>https://claudiaguerreros.github.io/mapas/project/project3/</link>
+      <title>Proyecto 3</title>
+      <link>https://claudiaguerreros.github.io/mapas/proyecto/proyecto3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/project/project3/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/proyecto/proyecto3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project 4</title>
-      <link>https://claudiaguerreros.github.io/mapas/project/project4/</link>
+      <title>Proyecto 4</title>
+      <link>https://claudiaguerreros.github.io/mapas/proyecto/proyecto4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/project/project4/</guid>
+      <guid>https://claudiaguerreros.github.io/mapas/proyecto/proyecto4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://claudiaguerreros.github.io/mapas/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Mapas económicos</title>
+      <link>https://claudiaguerreros.github.io/mapas/post/coahuila/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://claudiaguerreros.github.io/mapas/post/coahuila/</guid>
+      <description>Introducción La base de datos del DENUE, corresponde a los censos económicos que realiza el INEGI De acuerdo al SCIAN están codificados todos los sectores económicos.
+Coahuila Comercio al por menor de artículos usados https://claudiaguerreros.github.io/mapas.github.io/mapasartusados.html.
+Consultorios de quiropráctica, sector privado y público https://claudiaguerreros.github.io/mapas.github.io/mapasquiropracticos.html.
+Ópticas, unidades económicas que llevan en su nombre la palabra óptica Elección no por la actividad económica sino por el nombre en la razón social
+https://claudiaguerreros.github.io/mapas.github.io/mapasopticas.html</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://claudiaguerreros.github.io/mapas/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Mapas económicos</title>
+      <link>https://claudiaguerreros.github.io/mapas/post/mapaseconomicos/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>https://claudiaguerreros.github.io/mapas/post/mapaseconomicos/</guid>
+      <description>Introducción La base de datos del DENUE, corresponde a los censos económicos que realiza el INEGI De acuerdo al SCIAN están codificados todos los sectores económicos.</description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://claudiaguerreros.github.io/mapas/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Torreón</title>
+      <link>https://claudiaguerreros.github.io/mapas/post/torreon/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/mapas/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://claudiaguerreros.github.io/mapas/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://claudiaguerreros.github.io/mapas/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://claudiaguerreros.github.io/mapas/post/torreon/</guid>
+      <description>Torreón Panaderias, tortillerías, dulcerías y minisupers https://claudiaguerreros.github.io/mapas.github.io/mapaspanderias.html.
+Mapa de Combustibles y gasolinas https://claudiaguerreros.github.io/mapas.github.io/mapaseconomicos.html.
+Mapa de guarderías y estancias infantiles públicas y privadas https://claudiaguerreros.github.io/mapas.github.io/mapasguarderias.html.</description>
     </item>
     
   </channel>
