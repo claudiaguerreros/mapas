@@ -5,12 +5,16 @@ tags: ["mapas", "denue", "languaje r", "datos abiertos"]
 draft: false
 ---
 
+# Coahuila
+
 ## Introducción
 
 La base de datos del DENUE, corresponde a los censos económicos que realiza el INEGI
 De acuerdo al SCIAN están codificados todos los sectores económicos.
 
-## Coahuila
+
+### Hospitales
+<https://claudiaguerreros.github.io/mapas/mapashospitales.html>.
 
 ### Comercio al por menor de artículos usados
 <https://claudiaguerreros.github.io/mapas/mapasartusados.html>.
