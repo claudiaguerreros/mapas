@@ -43,6 +43,26 @@ Consultorios de quiropráctica, sector privado y público https://claudiaguerrer
     </item>
     
     <item>
+      <title>Culturales</title>
+      <link>https://claudiaguerreros.github.io/mapas/post/mapasculturales/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/mapas/post/mapasculturales/</guid>
+      <description>Mapas culturales Introducción Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
+En Coahuila selección de municipios https://claudia.shinyapps.io/mapascultvar/.</description>
+    </item>
+    
+    <item>
+      <title>Laguna</title>
+      <link>https://claudiaguerreros.github.io/mapas/post/laguna/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/mapas/post/laguna/</guid>
+      <description>Laguna Introducción Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron las unidades económicas de Torreón, Gómez Palacio y Lerdo Se creo una aplciación interactiva como directorio
+Interactiva con cualquier palabra https://claudia.shinyapps.io/masecopal/.</description>
+    </item>
+    
+    <item>
       <title>Mapas económicos</title>
       <link>https://claudiaguerreros.github.io/mapas/post/mapaseconomicos/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
