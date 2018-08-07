@@ -12,6 +12,12 @@ draft: false
 La base de datos del DENUE, corresponde a los censos económicos que realiza el INEGI
 De acuerdo al SCIAN están codificados todos los sectores económicos.
 
+### Residencias de asistencia social y para el cuidado de la salud
+Subsector del sector salud relacionado con  la asistnecia social "623"
+
+<https://claudiaguerreros.github.io/mapas/mapasasistenciasocial.html>.
+
+
 ### Mapas Sector Salud y de asistencia social
 Sector salud y de asistnecia social "62"
 
