@@ -12,7 +12,7 @@ draft: false
 La base de datos del DENUE, corresponde a los censos económicos que realiza el INEGI
 De acuerdo al SCIAN están codificados todos los sectores económicos.
 
-### Mapas por sector económico
+### Mapas Sector Salud y de asistencia social
 Sector salud y de asistnecia social "62"
 
 <https://claudiaguerreros.github.io/mapas/mapasporsect62.html>.

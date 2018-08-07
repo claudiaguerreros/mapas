@@ -28,7 +28,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/post/"
-    name = "Posts"
+    name = "Mapas categorías"
     weight = 2
 
 [[menu.main]]
