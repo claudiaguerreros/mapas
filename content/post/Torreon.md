@@ -1,14 +1,18 @@
 ---
-title: "TorreÃ³n"
+title: "TORREON"
 date: 2018-07-22
 tags: ["mapas", "denue", "languaje r", "datos abiertos"]
 draft: false
 ---
 
 
-# TorreÃ³n
+# Torreón
 
-### Panaderias, tortillerÃ­as, dulcerÃ­as y minisupers
+### Cajeros automáticos Citibanamex
+
+<https://claudiaguerreros.github.io/mapas/mapascajerobanamex.html>.
+
+### Panaderias, tortillerías, dulcerías y minisupers
 
  <https://claudiaguerreros.github.io/mapas/mapaspanderias.html>.
  
@@ -17,6 +21,6 @@ draft: false
 
 <https://claudiaguerreros.github.io/mapas/mapaseconomicos.html>.
 
-### Mapa de guarderÃ­as y estancias infantiles pÃºblicas y privadas
+### Mapa de guarderías y estancias infantiles públicas y privadas
 
 <https://claudiaguerreros.github.io/mapas/mapasguarderias.html>.
