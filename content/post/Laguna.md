@@ -13,6 +13,13 @@ Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron
 las unidades econ贸micas de Torre贸n, G贸mez Palacio y Lerdo
 Se creo una aplciaci贸n interactiva como directorio 
 
+### Viveros
+Comercio al por menor de plantas y flores naturales  466312"
+
+<https://claudiaguerreros.github.io/mapas/mapasviveros.html>.
+
+mapasmensajerias
+
 ### Mensajer韆s
 Subsector del sector salud relacionado con el servicio de mensajer韆 "492"
 
