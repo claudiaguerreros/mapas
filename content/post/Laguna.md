@@ -7,11 +7,15 @@ draft: false
 
 # Laguna
 
-## Introducci髇
+## Introducci?n
 
 Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron
 las unidades econ贸micas de Torre贸n, G贸mez Palacio y Lerdo
 Se creo una aplciaci贸n interactiva como directorio 
+
+###Panader铆as
+
+<https://claudiaguerreros.github.io/mapas/panaderiaslaguna.html>
 
 ### Viveros
 Comercio al por menor de plantas y flores naturales  466312"
@@ -20,8 +24,8 @@ Comercio al por menor de plantas y flores naturales  466312"
 
 mapasmensajerias
 
-### Mensajer韆s
-Subsector del sector salud relacionado con el servicio de mensajer韆 "492"
+### Mensajer?as
+Subsector del sector salud relacionado con el servicio de mensajer?a "492"
 
 <https://claudiaguerreros.github.io/mapas/mapasmensajerias.html>.
 
