@@ -7,11 +7,15 @@ draft: false
 
 # Laguna
 
-## Introducci?n
+## Introducción
 
 Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron
 las unidades económicas de Torreón, Gómez Palacio y Lerdo
-Se creo una aplciación interactiva como directorio 
+Se creo una aplciación interactiva como directorio
+
+###Juguetes
+
+<https://claudiaguerreros.github.io/mapas/jueguetes.html>
 
 ###Panaderías
 
