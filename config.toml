@@ -1,5 +1,5 @@
 baseURL = "https://claudiaguerreros.github.io/mapas/"
-languageCode = "en-us"
+languageCode = "es-mx"
 title = "Mapas Económicos"
 themesDir="themes"
 theme = "minimal"
