@@ -15,3 +15,6 @@ Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
 <https://claudia.shinyapps.io/mapascultvar/>.
 
+### En Guadalajara
+
+<https://claudiaguerreros.github.io/mapas/mapasculturalGuadalajara.html>.
