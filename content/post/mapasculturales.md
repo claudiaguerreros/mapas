@@ -18,3 +18,7 @@ Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 ### En Guadalajara
 
 <https://claudiaguerreros.github.io/mapas/mapasculturalGuadalajara.html>.
+
+### En Guanajuato
+
+<https://claudiaguerreros.github.io/mapas/mapasculturalGuanajuato.html>.
