@@ -22,3 +22,7 @@ Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 ### En Guanajuato
 
 <https://claudiaguerreros.github.io/mapas/mapasculturalGuanajuato.html>.
+
+### En San Miguel de Allende
+
+<https://claudiaguerreros.github.io/mapas/mapasculturalSanMiguel.html>.
