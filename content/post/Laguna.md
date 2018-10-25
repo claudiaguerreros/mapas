@@ -13,6 +13,10 @@ Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron
 las unidades económicas de Torreón, Gómez Palacio y Lerdo
 Se creo una aplciación interactiva como directorio
 
+###Disfraces
+
+<https://claudiaguerreros.github.io/mapas/mapasdisfraz.html>
+
 ###Juguetes
 
 <https://claudiaguerreros.github.io/mapas/jueguetes.html>
