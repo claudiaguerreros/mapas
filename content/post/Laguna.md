@@ -13,6 +13,10 @@ Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron
 las unidades económicas de Torreón, Gómez Palacio y Lerdo
 Se creo una aplciación interactiva como directorio
 
+###Del sector inductrial empresas con personal ocupado entre 31 y 50 personas
+
+<https://claudiaguerreros.github.io/mapas/mapasind3150.html>
+
 
 ###Asociaciones Religiosas
 
