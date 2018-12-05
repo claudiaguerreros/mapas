@@ -15,6 +15,12 @@ Se creo una aplciación interactiva como directorio
 
 
 
+
+mapasinfantiles
+
+### Unidades económicas relacionadas con infantes
+<https://claudiaguerreros.github.io/mapas/mapasinfantiles.html>
+
 ### Consultorios del sector privado de audiología y de terapia ocupacional, física y del lenguaje
 <https://claudiaguerreros.github.io/mapas/mapasconsult.html>
 
