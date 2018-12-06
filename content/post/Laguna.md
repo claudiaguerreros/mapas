@@ -16,6 +16,10 @@ Se creo una aplciación interactiva como directorio
 
 
 
+### Centros de acondicionamiento físico del sector privado
+<https://claudiaguerreros.github.io/mapas/mapasgimnasios.html>
+
+
 ### Unidades económicas relacionadas con infantes
 <https://claudiaguerreros.github.io/mapas/mapasescpreescolar.html>
 
