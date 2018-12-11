@@ -14,6 +14,8 @@ las unidades económicas de Torreón, Gómez Palacio y Lerdo
 Se creo una aplciación interactiva como directorio
 
 
+### Unidades circuncritas en área "Panaderías"
+<https://claudiaguerreros.github.io/mapas/panaderiasarea.html>
 
 
 ### Centros de acondicionamiento físico del sector privado
