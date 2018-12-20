@@ -7,6 +7,14 @@ draft: false
 
 # Torreón
 
+
+minisupersangeles
+
+### Colonias y actividades económicas
+
+<https://claudiaguerreros.github.io/mapas/minisupersangeles.html>.
+
+
 ### Colonias y códigos postales
 
 <https://claudiaguerreros.github.io/mapas/coloniascps.html>.
