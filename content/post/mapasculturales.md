@@ -7,6 +7,9 @@ draft: false
 
 # Mapas culturales
 
+## Mapa de Querétaro
+
+<https://claudiaguerreros.github.io/mapas/mapasculturalqro.html>.
 ## Introducción
 
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
