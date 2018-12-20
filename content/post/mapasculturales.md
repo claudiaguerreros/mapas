@@ -10,6 +10,14 @@ draft: false
 
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
+
+mapasculturalmerida
+
+
+## Mapa de Mérida
+
+<https://claudiaguerreros.github.io/mapas/mapasculturalmerida.html>.
+
 ## Mapa de Querétaro
 
 <https://claudiaguerreros.github.io/mapas/mapasculturalqro.html>.
