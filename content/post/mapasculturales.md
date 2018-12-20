@@ -11,8 +11,6 @@ draft: false
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
 
-mapasculturalmerida
-
 
 ## Mapa de Mérida
 
