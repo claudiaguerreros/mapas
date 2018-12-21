@@ -11,6 +11,9 @@ draft: false
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
 
+## Mapa de Puebla
+
+<https://claudiaguerreros.github.io/mapas/mapasculturalpuebla.html>.
 
 ## Mapa de Mérida
 
