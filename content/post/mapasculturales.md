@@ -10,6 +10,9 @@ draft: false
 
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
+## Mapa de Oaxaca de Juárez
+
+<https://claudiaguerreros.github.io/mapas/mapasculturaloaxaca.html>.
 
 ## Mapa de Puebla
 
