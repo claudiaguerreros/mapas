@@ -10,6 +10,10 @@ draft: false
 
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
+## Museos de México
+
+<https://claudiaguerreros.github.io/mapas/museosmexico.html>.
+
 ## Mapa de San Cristóbal de las Casas
 
 <https://claudiaguerreros.github.io/mapas/mapasculturalsancris.html>.
