@@ -10,6 +10,10 @@ draft: false
 
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
+## Teatros
+
+<https://claudiaguerreros.github.io/mapas/teatros.html>.
+
 ## Casas de artesanías
 
 <https://claudiaguerreros.github.io/mapas/casartesanias.html>.
