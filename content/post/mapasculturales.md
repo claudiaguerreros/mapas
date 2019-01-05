@@ -10,6 +10,10 @@ draft: false
 
 Se utilizaron las bases de datos abiertos de la Secretaría de Cultura
 
+## Casas de artesanías
+
+<https://claudiaguerreros.github.io/mapas/casartesanias.html>.
+
 ## Museos de México
 
 <https://claudiaguerreros.github.io/mapas/museosmexico.html>.
