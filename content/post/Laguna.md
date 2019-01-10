@@ -13,6 +13,9 @@ Utilizando la base de datos del DENUE para Coahuila y Durango se seleccionaron
 las unidades económicas de Torreón, Gómez Palacio y Lerdo
 Se creo una aplciación interactiva como directorio
 
+### Gasolina en la Laguna"
+<https://claudiaguerreros.github.io/mapas/gasolinaslaguna.html>
+
 ### Cajeros automáticos BANORTE"
 <https://claudiaguerreros.github.io/mapas/cajerosbanorte.html>
 
