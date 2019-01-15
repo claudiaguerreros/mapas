@@ -5,8 +5,14 @@ tags: ["mapas", "denue", "languaje r", "datos abiertos"]
 draft: false
 ---
 
+
+# Nacionales
+
 ## Introducción
 
-La base de datos del DENUE, corresponde a los censos económicos que realiza el INEGI
-De acuerdo al SCIAN están codificados todos los sectores económicos.
+Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
+SCIAN
+
+### Asilos y casas de cuidado de ancianos"
+<https://claudiaguerreros.github.io/mapas/mapnacasilos.html>
 
