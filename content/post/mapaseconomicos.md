@@ -16,3 +16,6 @@ SCIAN
 ### Asilos y casas de cuidado de ancianos"
 <https://claudiaguerreros.github.io/mapas/mapnacasilos.html>
 
+
+### Gasolinerías y diesel
+<https://claudiaguerreros.github.io/mapas/mapasnacgasolinas.html>
