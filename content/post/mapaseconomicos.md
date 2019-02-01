@@ -14,7 +14,7 @@ Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clase
 SCIAN
 
 ### Comercio al por menor de artículos de mercería y bonetería"
-<https://claudiaguerreros.github.io/mapas/mapasmerceriass.html>
+<https://claudiaguerreros.github.io/mapas/mapasmercerias.html>
 
 ### Comercio al por menor de flores y plantas naturales"
 <https://claudiaguerreros.github.io/mapas/mapasflores.html>
