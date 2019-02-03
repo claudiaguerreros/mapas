@@ -13,6 +13,9 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### Montepíos"
+<https://claudiaguerreros.github.io/mapas/montepios.html>
+
 ### Comercio al por menor de artículos de mercería y bonetería"
 <https://claudiaguerreros.github.io/mapas/mapasmercerias.html>
 
