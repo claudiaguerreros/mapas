@@ -13,6 +13,9 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### Comercio al por menor de libros"
+<https://claudiaguerreros.github.io/mapas/mapasliberias.html>
+
 ### Montepíos"
 <https://claudiaguerreros.github.io/mapas/montepios.html>
 
