@@ -13,6 +13,10 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+
+### Librerías del Fondo cultural económico"
+<https://claudiaguerreros.github.io/mapas/libreriasfondo.html>
+
 ### Comercio al por menor de libros"
 <https://claudiaguerreros.github.io/mapas/mapasliberias.html>
 
