@@ -13,6 +13,9 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### "Veterinarias"
+<https://claudiaguerreros.github.io/mapas/veterinarias.html>
+
 ### "Acuarios"
 <https://claudiaguerreros.github.io/mapas/acuarios.html>
 
