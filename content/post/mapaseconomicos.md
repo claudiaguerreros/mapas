@@ -12,6 +12,10 @@ draft: false
 
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
+
+### "Acuarios"
+<https://claudiaguerreros.github.io/mapas/acuarios.html>
+
 ### "Servicios de Grúas"
 <https://claudiaguerreros.github.io/mapas/gruasnacionales.html>
 
