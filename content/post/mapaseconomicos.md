@@ -13,6 +13,10 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### "Fabricación de Instrumentos musicaless"
+<https://claudiaguerreros.github.io/mapas/instrumentos.html>
+
+
 ### "Veterinarias"
 <https://claudiaguerreros.github.io/mapas/veterinarias.html>
 
