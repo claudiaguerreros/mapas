@@ -13,7 +13,11 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
-### "Fabricación de Instrumentos musicaless"
+### "Alfombras y tapetes"
+<https://claudiaguerreros.github.io/mapas/tapetes.html>
+
+
+### "Fabricación de Instrumentos musicales"
 <https://claudiaguerreros.github.io/mapas/instrumentos.html>
 
 
