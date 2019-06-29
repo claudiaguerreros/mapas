@@ -13,6 +13,9 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### "Antiguedades"
+<https://claudiaguerreros.github.io/mapas/antiguedades.html>
+
 ### "Alfombras y tapetes"
 <https://claudiaguerreros.github.io/mapas/tapetes.html>
 
