@@ -13,6 +13,11 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+
+### "Bolsas de plástico"
+<https://claudiaguerreros.github.io/mapas/bolsasplastico.html>
+
+
 ### "Antiguedades"
 <https://claudiaguerreros.github.io/mapas/antiguedades.html>
 
