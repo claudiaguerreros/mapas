@@ -14,6 +14,11 @@ Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clase
 SCIAN
 
 
+
+### "Comercio de mascotas al pormenor"
+<https://claudiaguerreros.github.io/mapas/mascotasvzonas.html>
+
+
 ### "Bolsas de plástico"
 <https://claudiaguerreros.github.io/mapas/bolsasplastico.html>
 
