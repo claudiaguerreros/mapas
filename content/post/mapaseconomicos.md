@@ -13,7 +13,8 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
-
+### "Servicios de mensajería y paquetería foránea"
+<https://claudiaguerreros.github.io/mapas/mensajes.html>
 
 ### "Comercio de mascotas al pormenor"
 <https://claudiaguerreros.github.io/mapas/mascotasvzonas.html>
