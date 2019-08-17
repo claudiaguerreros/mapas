@@ -13,6 +13,9 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### "Papelerías"
+<https://claudiaguerreros.github.io/mapas/papeleras.html>
+
 ### "Fabricación de piñatas"
 <https://claudiaguerreros.github.io/mapas/pinatas.html>
 
