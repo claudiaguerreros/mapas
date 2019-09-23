@@ -14,3 +14,6 @@ Se utilizaron las bases de datos abiertos del INEGI censo 2010
 
 <http://rpubs.com/claudia/Censo2010TRC>.
 
+## Viviendas con lavadora en Torreón
+
+<http://rpubs.com/claudia/CensolavTRC>.
