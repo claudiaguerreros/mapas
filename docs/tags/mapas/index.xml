@@ -6,7 +6,7 @@
     <description>Recent content in Mapas on Mapas Econ�micos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://claudiaguerreros.github.io/mapas/tags/mapas/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,16 @@
       
       <guid>https://claudiaguerreros.github.io/mapas/proyecto/proyecto2/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Censos</title>
+      <link>https://claudiaguerreros.github.io/mapas/post/censos/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/mapas/post/censos/</guid>
+      <description>Mapas CENSO 2010 Introducción Se utilizaron las bases de datos abiertos del INEGI censo 2010
+Todas las variables Censo Torreón http://rpubs.com/claudia/Censo2010TRC.</description>
     </item>
     
     <item>

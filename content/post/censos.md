@@ -12,5 +12,5 @@ Se utilizaron las bases de datos abiertos del INEGI censo 2010
 
 ## Todas las variables Censo Torreón
 
-<https://claudiaguerreros.github.io/mapas/CensoTRC2010.html>.
+<http://rpubs.com/claudia/Censo2010TRC>.
 
