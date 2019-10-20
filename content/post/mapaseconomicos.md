@@ -13,6 +13,12 @@ draft: false
 Utilizando la base de datos del DENUE Nacionales se seleccionan sectores o clases de acuerdo al catálogo
 SCIAN
 
+### "Tintorerias"
+<https://claudiaguerreros.github.io/mapas/tintorerias.html>
+
+### "Lavanderias"
+<https://claudiaguerreros.github.io/mapas/lavanderias.html>
+
 ### "Confección en serie de disfraces y trajes típicos"
 <https://claudiaguerreros.github.io/mapas/trajestipicos.html>
 
